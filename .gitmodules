@@ -1,0 +1,6 @@
+[submodule "rtklib-1"]
+	path = rtklib-1
+	url = https://wangda221%40gmail.com:iGGOQXE82RCfhok@github.com/dadawang/rtklib-1.git
+[submodule "azure-iot-sdk-c"]
+	path = azure-iot-sdk-c
+	url = https://github.com/Azure/azure-iot-sdk-c.git
